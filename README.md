@@ -40,7 +40,8 @@ Contributing
 If you would like to contribute, please fork the repository and submit a pull request. Contributions are welcome!
 
 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
+
 
 THANK YOU FORKS...............
 
