@@ -46,7 +46,7 @@ The analysis provides actionable insights and recommendations based on the sales
 If you would like to contribute, please fork the repository and submit a pull request. Contributions are welcome!
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.See The [LICENSE](https://github.com/MEHRAN-DEV-AI/SALES-DATA-ANALYSIS/blob/main/LICENSE)File For More Info.
 
 
 # THANK YOU FORKS...............
