@@ -1,7 +1,7 @@
 # SALES-DATA-ANALYSIS
 
 # Direct Access To The Notebook
-[CLICK HERE]() TO SEE THE NOTEBOOK DIRECTLY.
+[CLICK HERE](https://nbviewer.org/github/MEHRAN-DEV-AI/SALES-DATA-ANALYSIS/blob/main/SALES%20DATA%20%20ANALYSIS%20.ipynb) TO SEE THE NOTEBOOK DIRECTLY.
 # Overview
 This repository contains a comprehensive analysis of sales data using a Jupyter Notebook. The analysis includes descriptive statistics, trend analysis, comparative analysis, and insights derived from the dataset.
 
